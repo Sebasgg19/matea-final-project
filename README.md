@@ -1,6 +1,6 @@
 # Hi! and Welcome to my final project for 'Matea Social'
 
-About the API: You need to use any program like [Postman](https://www.postman.com)
+About the API: You need to use any program like [Postman](https://www.postman.com) to be allowed to do requests like delete or add a song, search an user, obtain a complete list of users or songs, etc.
 
 
 # Commands
