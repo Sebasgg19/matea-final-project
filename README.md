@@ -13,6 +13,22 @@ About the API: You need to use any program like [Postman](https://www.postman.co
 
 `http://localhost:3030/getUsers`
 
+>If you want to delete an user from the DB:
+
+`http://localhost:3030/delUser`
+
+>If you want to add an user into the DB:
+
+`http://localhost:3030/addUser`
+
+>If you want to add a song into the DB:
+
+`http://localhost:3030/addSong`
+
+>If you want to remove a song from the DB:
+
+`http://localhost:3030/delSong`
+
 ## Developed with:
 
 > [Express](https://expressjs.com/es/)
