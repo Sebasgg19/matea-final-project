@@ -1,4 +1,4 @@
-# # Hi! and Welcome to my final project for 'Matea Social'
+# Hi! and Welcome to my final project for 'Matea Social'
 
 About the API: You need to use any program like [Postman](https://www.postman.com)
 
